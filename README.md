@@ -36,7 +36,9 @@ pnpm run dev
 How to OTC exchange the top 100 global legal currencies for EACO? 
 The principle is similar. 
 
-Please explore and develop the use of EACO to exchange for the world's top 100 legal currencies on your own
+Please explore and develop the use of EACO to exchange for the world's top 100 legal currencies on your own.
+
+全球100大法定货币如何OTC兑换EACO?原理类似，请自行探索发展使用EACO兑换全球100大法定货币.
 
 e-usdc/usdt/sol pool,
 
