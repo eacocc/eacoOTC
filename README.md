@@ -32,6 +32,22 @@ pnpm run dev
 
 <img width="834" height="721" alt="6fbe4adf69e12c0b4752e3cd3c2636c3" src="https://github.com/user-attachments/assets/76f56db4-e4db-469d-8d08-0c1a58eb2930" />
 
+e-usdc/usdt/sol pool,
+
+https://www.orca.so/pools?tokens=DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
+
+e-usdt pool, 
+https://app.meteora.ag/dlmm/6ZfCi3qzhgDN1ygHVYXvfsfrwz8ZhQ7hD5mJtjeuUDyE
+
+e-usdc pool,
+
+https://www.orca.so/pools/Cm6EkxcYNfvxeYDBQ3TGXFqa9NCWvrFKHz4Cfju91dhr
+
+https://www.orca.so/pools?tokens=DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
+
+
+e-sol pool, 
+https://raydium.io/liquidity-pools/?token=DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 
 
 --------
