@@ -28,3 +28,41 @@ pnpm run dev
 ```
 
 - 在浏览器访问 http://localhost:3000
+
+
+
+【EACO代码重构e文明】 代码e即财富，
+
+EACO地球E连接地球和宇宙的一切，e连接地球和宇宙万物。
+
+e&EACO(Earth’s Best Coin),
+
+EACO is Earth’s best friend;
+
+$e=$eaco.计算劳动价值，量化地球资源;
+
+eaco的總量為1350000000，13.5亿个；
+
+https://linktr.ee/web3eaco
+
+https://solscan.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
+
+https://linktr.ee/eacocc
+
+https://x.com/eacocc
+
+english tg: https://t.me/e_eacocc
+
+华语社区：https://t.me/aieaco
+
+e(eaco) spanish group: https://t.me/eacoespanish
+
+E swap:https://github.com/eacocc/EACO_Exchange_DApp
+
+https://t.me/eacocny
+
+https://t.me/e_vietnam
+
+https://t.me/e_usdc
+
+https://t.me/e_indonesia
