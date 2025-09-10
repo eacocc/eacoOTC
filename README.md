@@ -30,6 +30,10 @@ pnpm run dev
 - 在浏览器访问 http://localhost:3000
 
 
+<img width="834" height="721" alt="6fbe4adf69e12c0b4752e3cd3c2636c3" src="https://github.com/user-attachments/assets/76f56db4-e4db-469d-8d08-0c1a58eb2930" />
+
+
+
 --------
 
 【EACO代码重构e文明】 代码e即财富，
