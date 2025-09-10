@@ -32,6 +32,12 @@ pnpm run dev
 
 <img width="834" height="721" alt="6fbe4adf69e12c0b4752e3cd3c2636c3" src="https://github.com/user-attachments/assets/76f56db4-e4db-469d-8d08-0c1a58eb2930" />
 
+
+How to OTC exchange the top 100 global legal currencies for EACO? 
+The principle is similar. 
+
+Please explore and develop the use of EACO to exchange for the world's top 100 legal currencies on your own
+
 e-usdc/usdt/sol pool,
 
 https://www.orca.so/pools?tokens=DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
